@@ -1,0 +1,51 @@
+* {
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	/* padding-left: 15%; */
+}
+
+header {
+	padding: 10px;
+	background-color: #3C5997;
+	color: white;
+	width: 100%;
+}
+
+header h1 {
+	margin: 0;
+	padding-left: 10%;
+}
+
+nav {
+	float: right;
+	padding-right: 10%;
+}
+
+input {
+	padding: 5px;
+}
+
+img {
+	width: 100%;
+}
+
+.left-side {
+	width: 50%;
+	float: left;
+	padding: 10px;
+	padding-left: 10%;
+}
+
+.right-side {
+	width: 50%;
+	float: right;
+	padding: 10px;
+	padding-right: 10%;
+}
+
+.right-side input {
+	margin-bottom: 10px;
+}
